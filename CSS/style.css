@@ -1,0 +1,78 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.banner-container{
+background-color:#1B3360 ;
+
+}
+.banner-column{
+    background-color: #191B1D;
+}
+.profile{
+    border-radius: 50%;
+    height: 40;
+    width: 40;
+}
+.navbar-container{
+    top: 0;
+    position: sticky;
+    z-index: 2;
+    background-color: #645E60;
+    color:black;
+}
+.navbar-container:hover{
+    color: white;
+}
+.about-container{
+    background-color: #1B3360;
+}
+.education-container{
+    background-color:  #1B3360; 
+    
+}
+.blacktype{
+    color: #0B0E1D;
+} 
+.bg-red-type{
+   background-color: #98344F;
+}
+.bg-red-type:hover{
+    color: #0B0E1D!important;
+ }
+.circle-edu{
+    background-color: #98344F;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.projet-container{
+    background-color: #1B3360;
+}
+.portfolio-container{
+    background-color: #1B3360;
+}
+.form-container{
+    background-color: #1B3360;
+}
+.inner-form{
+    background-color: #191B1D ;
+}
+.footer{
+    background-color: #1B3360;
+}
+.circle{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color: #1B3360;
+    
+}
+.circle:hover{
+ background-color: #0B0E1D;
+}
+    
+
